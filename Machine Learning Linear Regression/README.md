@@ -8,10 +8,11 @@ This project aims to build a simple linear regression model to predict the charg
 ## Installation 
 1. Clone the repository:
 
-- git clone https://github.com/edwarjosep11/health-insurance-charges-predictor.git
+- git clone: ```https://github.com/edwarjosep11/health-insurance-charges-predictor.git```
 
-2. Install the required packages using pip
-pip install -r requirements.txt
+2. Install the required packages using pip:
+
+- ```pip install -r requirements.txt```
 
 3. Open the Jupyter notebook: INSURANCE_MACHINE_LEARNING.ipynb
 
