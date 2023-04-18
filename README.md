@@ -49,7 +49,7 @@ The Insurance Prediction project contains the following files:
 * insurance.csv: The dataset used in this project.
 * README.md: Detailed instructions on how to run the project and interpret the results.
 
-###Project 3: Movie Description Similarity
+### Project 3: Movie Description Similarity
 * The Movie Description Similarity project contains the following files:
 * movie_similarity.py: The main Python script that finds the most similar movie to a given description using natural language processing techniques.
 * movies.txt: The dataset used in this project.
